@@ -1,3 +1,4 @@
+![4 1_page-0001](https://github.com/user-attachments/assets/5f126f72-b642-409b-a572-1a96c092b503)
 # EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:
 
@@ -40,7 +41,8 @@ To create the solid model from given drawing and section the solid model
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
-## OUTPUT:
+## OUTPUT:![4 1_page-0001](https://github.com/user-attachments/assets/f5809ba6-b014-4d74-9e79-44fd2e300b3f)
+
 
 ## RESULT:
 
