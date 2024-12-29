@@ -1,7 +1,7 @@
 ![4 1_page-0001](https://github.com/user-attachments/assets/5f126f72-b642-409b-a572-1a96c092b503)
 # EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:
-
+ 
 ## AIM
 To create the solid model from given drawing and section the solid model
 
